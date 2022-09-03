@@ -57,6 +57,12 @@ main h1 {
 
 /*Desktop Version*/
 @media (min-width: 760px) {
+  #container {
+    background: url("../images/images/bg.svg") no-repeat 80% ;
+    
+    background-size:350px;
+  }
+  
   header {
     display: flex;
     align-items: center;
